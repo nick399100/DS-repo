@@ -12,6 +12,9 @@
 #### [作業二程式碼](https://github.com/nick399100/DS-repo/blob/main/hw2.py)
 ### ![hw2截圖](https://github.com/nick399100/DS-repo/blob/main/hw2_%E7%B5%82%E7%AB%AF.png)
 
-#### [作業三]
+#### [作業三程式碼](https://github.com/nick399100/DS-repo/blob/main/hw3.py)
+### ![hw3截圖](https://github.com/nick399100/DS-repo/blob/main/hw3_%E7%B5%82%E7%AB%AF.png)
+
+
 #### [作業四]
 #### [作業五]
