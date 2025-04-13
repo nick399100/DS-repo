@@ -16,5 +16,6 @@
 ### ![hw3截圖](https://github.com/nick399100/DS-repo/blob/main/hw3_%E7%B5%82%E7%AB%AF.png)
 
 
-#### [作業四]
+#### [作業四程式碼](https://github.com/nick399100/DS-repo/blob/main/hw4.py)
+### ![hw4截圖](https://github.com/nick399100/DS-repo/blob/main/hw4_%E7%B5%82%E7%AB%AF.png)
 #### [作業五]
