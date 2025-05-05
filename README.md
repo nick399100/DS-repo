@@ -21,4 +21,4 @@
 
 
 #### [作業五程式碼](https://github.com/nick399100/DS-repo/blob/main/hw5.py)
-### ![hw4截圖](https://github.com/nick399100/DS-repo/blob/main/hw5_%E7%B5%82%E7%AB%AF.png)
+### ![hw5截圖](https://github.com/nick399100/DS-repo/blob/main/hw5_%E5%89%8D%E7%AB%AF.png)
